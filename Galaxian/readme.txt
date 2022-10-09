@@ -1,5 +1,4 @@
-Nomes integrantes: Pedro Henrique Rocha de Castro e Matheus Shimizu Araujo
-Matriculas Integrantes: 20213004828(Pedro Henrique Rocha de Castro) e 20203000880(Matheus Shimizu Araujo)
+
 
 
 Instruções para compilação:
